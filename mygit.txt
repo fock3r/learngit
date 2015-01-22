@@ -1,6 +1,0 @@
-#!/bin/bash
-this is my first git
-the three
-the four write
-the five
-
